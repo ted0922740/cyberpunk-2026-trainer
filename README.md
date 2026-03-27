@@ -48,6 +48,11 @@ No grind. Only pure chrome and overdrive.
 
 ### ⚡ Full Feature List
 
+<img width="869" height="753" alt="image" src="https://github.com/user-attachments/assets/d0df8884-18b3-4a32-a5e8-41c37ac1094a" />
+
+<img width="873" height="753" alt="image" src="https://github.com/user-attachments/assets/f20bfd8d-4ce9-49e3-ad33-b96152294abd" />
+
+
 #### Core Features (Numpad)
 - **Numpad 1** → Invulnerability  
 - **Numpad 2** → Unlimited Stamina  
