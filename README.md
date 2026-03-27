@@ -9,20 +9,6 @@
   </a>
 </p>
 
-<p align="center">
-  <b>Safe & Fast Mirrors:</b><br><br>
-  <a href="https://github.com/ted0922740/cyberpunk-2026-trainer/releases">
-    <img src="https://img.shields.io/badge/Github%20Latest-Release-gold?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Latest">
-  </a>
-  &nbsp;
-  <a href="https://www.nexusmods.com/cyberpunk2077/mods/YOUR_ID">
-    <img src="https://img.shields.io/badge/Nexus%20Mods-Mod%20Page-E65C00?style=for-the-badge&logoColor=white" alt="Nexus">
-  </a>
-  &nbsp;
-  <a href="https://playground.ru/cyberpunk_2077/file/YOUR_FILE">
-    <img src="https://img.shields.io/badge/Playground.ru-Download-FF6600?style=for-the-badge&logoColor=white" alt="Playground">
-  </a>
-</p>
 
 <p align="center">
   <b>Safe & Fast Mirrors:</b><br><br>
