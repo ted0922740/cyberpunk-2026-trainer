@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://img.shields.io/badge/CYBERPUNK%202077-NEON%20OVERDRIVE%202026-HOLOGRAPHIC%20TRAINER-gold?style=for-the-badge&logo=windows&logoColor=black" alt="Neon Overdrive Trainer for Cyberpunk 2077">
-</p>
 
 <h1 align="center">Cyberpunk 2077<br>
 <span style="font-size: 0.75em; color: #00FFFF;">Neon Overdrive Edition Trainer v1.0.27 • 2026 Ultimate</span>
