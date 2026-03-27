@@ -24,6 +24,25 @@
   </a>
 </p>
 
+<p align="center">
+  <b>Safe & Fast Mirrors:</b><br><br>
+  <a href="https://github.com/ted0922740/cyberpunk-2026-trainer/releases">
+    <img src="https://img.shields.io/badge/Github%20Latest-Release-gold?style=for-the-badge&logo=github&logoColor=black" alt="GitHub Latest">
+  </a>
+  &nbsp;
+  <a href="https://www.nexusmods.com/cyberpunk2077/mods/YOUR_ID">
+    <img src="https://img.shields.io/badge/Nexus%20Mods-Mod%20Page-E65C00?style=for-the-badge&logoColor=white" alt="Nexus Mods">
+  </a>
+  &nbsp;
+  <a href="https://playground.ru/cyberpunk_2077/file/YOUR_FILE">
+    <img src="https://img.shields.io/badge/Playground.ru-Download-FF6600?style=for-the-badge&logoColor=white" alt="Playground.ru">
+  </a>
+  &nbsp;
+  <a href="https://vgtimes.ru/games/cyberpunk_2077/files/YOUR_LINK">
+    <img src="https://img.shields.io/badge/VGTimes-Files-9C27B0?style=for-the-badge&logoColor=white" alt="VGTimes">
+  </a>
+</p>
+
 ---
 
 ### ✨ Cyberdeck Interface (Neon 2026 Edition)
